@@ -17,10 +17,13 @@
       
       .cont1{
         display: flex;
+        justify-content: center;
         border: 2px solid white;
         border-radius: 15px;
         padding: 35px;
         margin: 10px;
+        background-image: url("./images/back.webp");
+        background-position: 2%;
       }
       .row1{
         padding: 20px;
@@ -32,37 +35,66 @@
       }
       .button1{
         border-radius: 15px;
-        background-color: red;
+        background-color:RGBA(var(--bs-dark-rgb),var(--bs-bg-opacity,1))!important;
         font-size: 20px;
         border: 2px solid white;
         padding: 5px 10px;
+        color: white;
+      }
+      .logo{
+        align-content: center;
+        width: 150px;
+        height: auto;
+        margin-right: 15px;
         
       }
+      .head{
+        font-size: 30px;
+        font-weight: bold;
+        margin-right: 15px;
+        text-align: center;
+        margin-top: 10px;
+       
+      }
+      .head1{
+        display:grid;
+        justify-content: center;
+        align-items:center;
+        
+       
+      }
       
-
         
       
       
     </style>
 </head>
 <body>
-    <h1 style="text-align: center;">SetupVault</h1>
-    <h2 style="text-align: center;">Laptops</h2>
+    <div style="margin: 30px;"></div>
+    <div class="head1">
+        
+            <img src="./images/setupVault.webp" class="logo">
+       
+        
+            <h1 class="head" style="text-align: center;">SetupVault</h1>
+        
+    </div>
+    <div style="margin: 30px;"></div>
     <header data-bs-theme="Dark">
-        <div class="collapse text-bg-dark" id="navbarHeader">
-          <div class="container">
+        <div  class="collapse text-bg-dark" id="navbarHeader">
+          <div  class="container">
             <div class="row">
               <div class="col-sm-8 col-md-7 py-4">
                 <h4>Tech</h4>
                 
                 <nav>
                   <ul>
-                  <li><a href="./main.html">Home</a></li>
-                  <li><a href="./pcs.html">Pcs</a></li>
-                  <li><a href="./monitors.html">Monitors</a></li>
-                  <li><a href="./index.html">Laptops</a></li>
-                  <li><a href="./consoles.html">Consoles</a></li>
-                  
+                    <li><a href="./index.html">Home</a></li>
+                    <li><a href="./pcs.html">Pcs</a></li>
+                    <li><a href="./monitors.html">Monitors</a></li>
+                    <li><a href="./laptops.html">Laptops</a></li>
+                    <li><a href="./consoles.html">Consoles</a></li>
+                    
                   </ul>
                   </nav>
               </div>
@@ -89,15 +121,60 @@
         </div>
       </header>
       <main>
-       
+        <div style="margin: 30px;"></div>
         <div class="pict">
+            <div  class="container">   
+                <div>
+                    <div  class="cont1">
+                        <div class="row1">
+                        <p style="color:white; font-size: 50px;" class="card-text"> <strong>Game, Study, Succeed - All in One Place</strong></p>
+                        </div>
+                        </div>
+                </div>
+            </div>
             
-            <div class="container">
-                <button class="button1">Filters</button>
-                <div id="col" >
+        </div>
+        
+        <div style="background-color:RGBA(var(--bs-dark-rgb),var(--bs-bg-opacity,1))!important;" class="album py-5 bg-body-tertiary">
+            <div class="container"  >
+                <div  class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3">
+                    <div style="font-size: 20px; text-align: center; background-color:RGBA(var(--bs-dark-rgb),var(--bs-bg-opacity,1))!important; margin: 50px;" class="card shadow-sm">
+                        <img src="images/setupVault.webp" class="card-img-top" alt="..."></img>
+                        <div style="color: white;" class="card-body">
+                            <p class="card-text"> <strong><a href="./main.html">Home</a></strong></p>
+                        </div>
+                    </div>
+                    <div style="font-size: 20px; text-align: center; background-color:RGBA(var(--bs-dark-rgb),var(--bs-bg-opacity,1))!important; margin: 50px;" class="card shadow-sm">
+                        <img src="images/pcMain.webp" class="card-img-top" alt="..."></img>
+                        <div style="color: white;" class="card-body">
+                            <p class="card-text"> <strong><a href="./pcs.html">Pcs</a></strong></p>
+                        </div>
+                    </div>
+                    <div style="font-size: 20px; text-align: center; background-color:RGBA(var(--bs-dark-rgb),var(--bs-bg-opacity,1))!important; margin: 50px;" class="card shadow-sm">
+                        <img src="images/monitorMain.webp" class="card-img-top" alt="..."></img>
+                        <div style="color: white;" class="card-body">
+                            <p class="card-text"> <strong><a href="./monitors.html">Monitors</a></strong></p>
+                        </div>
+                    </div>
+                    <div style="font-size: 20px; text-align: center; background-color:RGBA(var(--bs-dark-rgb),var(--bs-bg-opacity,1))!important; margin: 50px;" class="card shadow-sm">
+                        <img src="images/mac.jpg" style="height: 320px;width: 320px;" class="card-img-top" alt="..."></img>
+                        <div style="color: white;" class="card-body">
+                            <p class="card-text"> <strong><a href="./index.html">Laptops</a></strong></p>
+                        </div>
+                    </div>
+                    <div style="font-size: 20px; text-align: center; background-color:RGBA(var(--bs-dark-rgb),var(--bs-bg-opacity,1))!important; margin: 50px;" class="card shadow-sm">
+                        <img src="images/consoleMain.webp" class="card-img-top" alt="..."></img>
+                        <div style="color: white;" class="card-body">
+                            <p class="card-text"> <strong><a href="./consoles.html">Consoles</a></strong></p>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
         </div>
+        
+            
+        
 
 
       </main>
@@ -106,8 +183,7 @@
           <p class="float-end mb-1">
             <a href="#">Back to top</a>
           </p>
-          <p class="mb-1">Album example is &copy; Bootstrap, but please download and customize it for yourself!</p>
-          <p class="mb-0">New to Bootstrap? <a href="/">Visit the homepage</a> or read our <a href="../getting-started/introduction/">getting started guide</a>.</p>
+          <p class="mb-0"><a href="/">Visit the homepage</a></p>
         </div>
       </footer>
 </body>
