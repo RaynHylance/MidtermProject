@@ -1,0 +1,35 @@
+{
+    "Laptops": [
+        {
+            "name": "MacBook Pro",
+            "img": "./images/mac.jpg",
+            "description": "The 14-inch MacBook Pro blasts forward with M3 Pro and M3 Max, radically advanced chips that drive even greater performance for more demanding workflows. With industry-leading battery life—up to 18 hours—and a beautiful Liquid Retina XDR display, it’s a pro laptop without equal. Now in a new color: Space Black. ",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+        },
+        {
+           "name": "Surface Pro 4",
+            "img": "./images/surface.png",
+            "description": "The Microsoft Surface Pro 4 is a 2-in-1 hybrid tablet and laptop, designed for both productivity and portability. Released in 2015, it was part of Microsoft's Surface lineup, aimed at professionals and students who need the flexibility of a tablet combined with the functionality of a full laptop",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+        },
+        {
+            "name": "MacBook Pro",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+        },
+        {
+         "name": "MacBook Pro",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+      },
+      {
+        "name": "MacBook Pro",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+      }
+    ]
+   
+  }
