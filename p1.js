@@ -3,18 +3,35 @@ function myfetch(){
     
     fetch("./tech.json")
     .then((response) =>{ return response.json()})
-    .then((data)=> {appendData(data)})
+    .then((data)=> {
+        let s = document.getElementById("page");
+        let m=s.textContent;
+        if(m=="Laptops"){
+            appendData(data.laptops)
+        }
+        if(m=="Pcs"){
+            appendData(data.pcs)      
+        }
+        if(m=="Monitors" ){   
+            appendData(data.monitors)
+        }
+        if(m=="Consoles"){
+             appendData(data.consoles)   
+        }
+    })
     .catch((err)=> {console.log('error:' + err)});
 
 }
 function appendData(data){
     // find the id col for Bootstrap Card
     var CardMovie = document.getElementById("col");
-    for(i=0;i<data.Laptops.length;i++) {
+    console.log(data);
+    
+    for(i=0;i<data.length;i++) {
         
-            let name = data.Laptops[i].name;
-            let description = data.Laptops[i].description;
-            let img = data.Laptops[i].img;
+            let name = data[i].name;
+            let description = data[i].description;
+            let img = data[i].img;
             
             // construct the HTML element
             let AddCardMovie = document.createElement("div");

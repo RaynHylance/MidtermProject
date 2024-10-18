@@ -1,5 +1,5 @@
 {
-    "Laptops": [
+    "laptops": [
         {
             "name": "MacBook Pro",
             "img": "./images/mac.jpg",
@@ -10,6 +10,38 @@
            "name": "Surface Pro 4",
             "img": "./images/surface.png",
             "description": "The Microsoft Surface Pro 4 is a 2-in-1 hybrid tablet and laptop, designed for both productivity and portability. Released in 2015, it was part of Microsoft's Surface lineup, aimed at professionals and students who need the flexibility of a tablet combined with the functionality of a full laptop",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+        },
+        {
+            "name": "Dell Inspiron 15",
+            "img": "./images/dell.png",
+            "description": "Dell Inspiron 15: The Dell Inspiron 15 is a budget-friendly laptop offering reliable performance for everyday tasks. It features a 15.6-inch display, ample storage, and a range of configurations to suit different user needs, making it a solid choice for students and professionals.",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+        },
+        {
+         "name": "Microsoft Surface GO 3",
+            "img": "./images/go3.webp",
+            "description": "Surface Go 3: The Microsoft Surface Go 3 is a compact 2-in-1 tablet and laptop, designed for portability and versatility. With a 10.5-inch touchscreen, detachable keyboard, and compatibility with the Surface Pen, it’s ideal for light productivity and casual use on the go",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+      },
+      {
+        "name": "MacBook Air",
+            "img": "./images/air.webp",
+            "description": "MacBook Air: The MacBook Air is Apple's ultra-thin and lightweight laptop, featuring the powerful M1 or M2 chip. Known for its long battery life, Retina display, and sleek design, it's perfect for users who need portability without sacrificing performance.",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+      }
+    ],
+    "pcs": [
+        {
+            "name": "pc1",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+        },
+        {
+           "name": "pc2",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
         },
         {
@@ -30,6 +62,70 @@
             "description": "This is a mac book",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
       }
-    ]
+    ],
+    "monitors":[
+        {
+            "name": "monitors",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+        },
+        {
+           "name": "MacBook Pro",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+        },
+        {
+            "name": "MacBook Pro",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+        },
+        {
+         "name": "MacBook Pro",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+      },
+      {
+        "name": "MacBook Pro",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+      }
+    ] ,
+    "consoles":[
+        {
+            "name": "consoles",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+        },
+        {
+           "name": "MacBook Pro",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+        },
+        {
+            "name": "MacBook Pro",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+        },
+        {
+         "name": "MacBook Pro",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+      },
+      {
+        "name": "MacBook Pro",
+            "img": "./images/mac.jpg",
+            "description": "This is a mac book",
+            "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
+      }
+    ] 
    
   }
