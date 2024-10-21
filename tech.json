@@ -33,97 +33,97 @@
     ],
     "pcs": [
         {
-            "name": "pc1",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+            "name": "Alienware Gaming Desktop",
+            "img": "./images/alien-desk.webp",
+            "description": "The Alienware Aurora R16 is a premium gaming desktop known for its futuristic design and high-end performance. It is equipped with an Intel Core i7-14700KF processor, delivering outstanding speed and efficiency for gaming and heavy workloads. The NVIDIA GeForce RTX 4070 SUPER graphics card allows for breathtaking visuals, high frame rates, and enhanced gaming experiences with ray tracing and DLSS. With 32GB of RAM, this desktop ensures excellent multitasking and smooth performance. The 1TB SSD storage provides fast data access and sufficient space for storing games and applications. Its black chassis showcases Alienware’s signature style, making it a great addition to any gaming environment.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
         },
         {
-           "name": "pc2",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+           "name": "Asus ROG Gaming Desktop",
+            "img": "./images/asus-desk.webp",
+            "description": "This ASUS ROG gaming desktop is designed for serious gamers who need high performance and graphics. Powered by the Intel Core i7-14700F processor, it delivers fast and reliable performance for multitasking, gaming, and creative work. The 32GB of RAM ensures smooth operations during intensive gaming sessions, while the NVIDIA GeForce RTX 4060 Ti graphics card brings high-quality visuals and ray tracing support for modern games. The 2TB SSD provides ample storage for games, apps, and files, ensuring fast boot times and data access. Its sleek black design complements any gaming setup.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
         },
         {
-            "name": "MacBook Pro",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+            "name": "Mac Desktop",
+            "img": "./images/MAC-desk.webp",
+            "description": "Apple's iMac is known for its elegant, all-in-one design and seamless user experience. It typically features a Retina display with stunning visuals, making it perfect for creatives and professionals who need accurate color representation. Powered by Apple's M1 or M2 chips in the latest models, the iMac offers high performance with lower power consumption. The desktop includes 8GB to 16GB of RAM, expandable storage options ranging from 256GB to 2TB SSD, and integrated graphics or M1/M2 GPU for smooth performance. The macOS ecosystem enhances productivity, creativity, and communication, while the clean design fits well into professional or home office settings.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
         },
         {
-         "name": "MacBook Pro",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+         "name": "Mac Mini Desktop",
+            "img": "./images/mini-desk.webp",
+            "description": "The Mac Mini is a compact yet powerful desktop designed for versatility. It features Apple's M1 or M2 chips, providing impressive performance and efficiency in a small form factor. It comes with 8GB to 16GB of RAM and SSD storage options from 256GB to 2TB. The Mac Mini is great for users who want the macOS experience in a minimalistic design, making it suitable for both professional use and home setups. It does not include a monitor, keyboard, or mouse, so it is often paired with external peripherals. It's ideal for creative professionals, developers, or anyone needing a powerful desktop without taking up too much space.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
       },
       {
-        "name": "MacBook Pro",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+        "name": "HP All-In-One",
+            "img": "./images/HP-desk.webp",
+            "description": "HP’s All-in-One desktop lineup is designed for users who want a space-saving, sleek design with robust performance. These models combine the monitor and computer into a single unit, eliminating the need for a separate tower. The latest models come equipped with Intel Core or AMD Ryzen processors, 8GB to 16GB of RAM, and SSD storage ranging from 256GB to 1TB. They offer touch or non-touch screens with Full HD or 4K resolution, making them versatile for work, entertainment, and creative tasks. The integrated graphics are typically suitable for casual gaming and media editing. This all-in-one solution is perfect for families or professionals who want simplicity and a clutter-free desk setup.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
       }
     ],
     "monitors":[
         {
             "name": "monitors",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+            "img": "./images/alien-m.jpg",
+            "description": "TAlienware gaming monitors are known for their premium build quality, ultra-responsive displays, and futuristic designs. The latest models often feature QHD or 4K resolution with refresh rates ranging from 165Hz to 360Hz, ensuring smooth, lag-free gameplay. NVIDIA G-Sync and AMD FreeSync technology support minimizes screen tearing, while ultra-fast response times (as low as 1ms) provide precision during fast-paced games. Alienware’s monitors also offer immersive visual experiences through curved screens (in some models), HDR support, and wide color gamut for rich, vibrant visuals. The iconic Alienware design with customizable RGB lighting adds a distinct flair to any gaming setup.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
         },
         {
            "name": "MacBook Pro",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+            "img": "./images/aoc-m.jpg",
+            "description": "AOC is a well-known brand in the gaming monitor space, offering high-performance models at competitive prices. AOC gaming monitors typically feature Full HD, QHD, or 4K resolution, with refresh rates between 144Hz and 240Hz for smooth motion and responsiveness during gaming. Equipped with FreeSync or G-Sync compatibility, AOC monitors ensure that screen tearing and stuttering are minimized. With 1ms response times and curved or flat screen options, AOC monitors provide immersive gaming experiences. The design tends to be minimalist but functional, often with thin bezels and adjustable stands for ergonomic positioning.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
         },
         {
             "name": "MacBook Pro",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+            "img": "./images/msi-m.jpg",
+            "description": "MSI gaming monitors are engineered for competitive gamers who demand speed and precision. These monitors feature high refresh rates, typically ranging from 144Hz to 360Hz, and fast 1ms response times for smooth gameplay, even in fast-action games. MSI offers models with Full HD, QHD, and 4K resolution, and some include curved screens for an immersive field of view. FreeSync and G-Sync technology ensure a tear-free experience, while wide color gamut and HDR support enhance the visual quality for vibrant and lifelike images. MSI monitors often feature gamer-centric designs, with RGB lighting and adjustable stands for comfort during long gaming sessions.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
         },
         {
          "name": "MacBook Pro",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+            "img": "./images/asus-m.jpg",
+            "description": "ASUS is a top choice for gaming enthusiasts due to its robust, feature-packed monitors. ASUS gaming monitors usually come with high refresh rates of 144Hz to 360Hz, making them ideal for fast-paced games. They feature G-Sync or FreeSync Premium for a smooth, tear-free experience. ASUS monitors come in a variety of resolutions, from Full HD to 4K, and many offer 1ms response times for minimal input lag. Some models also include curved screens, HDR10 support, and eye-care technology to reduce eye strain during extended gaming sessions. ASUS’s ROG (Republic of Gamers) series includes bold, aggressive designs with customizable Aura Sync RGB lighting and fully adjustable ergonomic stands.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
       },
       {
         "name": "MacBook Pro",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+            "img": "./images/cura-m.webp",
+            "description": "Curved gaming monitors provide an immersive experience by wrapping the display around your field of vision, making gameplay feel more engaging. They come in various sizes, typically ranging from 27 inches to 49 inches, with a curvature measured in 1800R to 1000R for deeper immersion. These monitors offer high refresh rates (often 144Hz or higher) and fast 1ms response times, making them suitable for competitive gaming. Many curved gaming monitors support FreeSync and G-Sync technologies to reduce screen tearing and stuttering, and they often feature QHD or UltraWide resolutions for enhanced detail. HDR support and a wide color gamut ensure rich, vibrant visuals. The sleek, futuristic design of curved gaming monitors complements any modern gaming setup, and the curved form factor reduces peripheral distractions for focused gameplay.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
       }
     ] ,
     "consoles":[
         {
-            "name": "consoles",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+            "name": "Playstation 5",
+            "img": "./images/ps5.jpg",
+            "description": "The PlayStation 5 is Sony’s latest and most powerful console, designed for a next-generation gaming experience. It features a custom AMD Zen 2 CPU and RDNA 2 GPU, delivering up to 10.28 teraflops of graphical performance for 4K gaming at 60 to 120 fps and even 8K support in future updates. The PS5 includes an ultra-fast 825GB SSD, which drastically reduces load times and enhances the overall experience. It supports ray tracing, 3D audio, and HDR for lifelike visuals and sound. The PS5 comes in two versions: a standard model with a 4K Blu-ray disc drive and a Digital Edition without a disc drive. The DualSense controller adds immersive haptic feedback and adaptive triggers for enhanced gameplay. The console’s bold, futuristic design stands out, and it’s backward compatible with most PS4 games.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
         },
         {
-           "name": "MacBook Pro",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+           "name": "Playstation 4",
+            "img": "./images/ps4.jpg",
+            "description": "The PlayStation 4 is Sony’s previous-generation console, offering solid performance for gamers at a more affordable price point. Powered by a custom AMD Jaguar CPU and 1.84 teraflop GPU, it supports 1080p gaming at 30 to 60 fps, with some titles offering 4K support on the PS4 Pro version. It features 500GB to 1TB of hard drive storage, depending on the model, and supports Blu-ray discs. The PS4 offers an extensive library of exclusive and third-party titles, along with backward compatibility for select PS2 and PS1 games through remasters or digital downloads. It supports HDR, enhancing visual fidelity in games that allow it. The DualShock 4 controller features a touchpad, motion sensors, and built-in speakers. The console’s design is sleek and compact, making it easy to fit into any setup.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
         },
         {
-            "name": "MacBook Pro",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+            "name": "Xbox Series X",
+            "img": "./images/xbox.jpg",
+            "description": "The Xbox Series X is Microsoft’s flagship gaming console, offering top-tier performance and advanced features for next-gen gaming. It is powered by a custom AMD Zen 2 CPU and RDNA 2 GPU, delivering up to 12 teraflops of graphical power, making it capable of 4K gaming at 60 to 120 frames per second (fps) and even 8K output for select titles. The console includes 1TB of NVMe SSD storage, ensuring ultra-fast load times and seamless gameplay. It supports ray tracing, Variable Refresh Rate (VRR), and HDR for enhanced visuals. Backward compatibility allows users to play thousands of Xbox One, Xbox 360, and original Xbox games. Its design is a sleek, minimalistic black tower, and it includes features like Quick Resume to switch between games instantly and Xbox Game Pass integration for subscription-based access to a vast library of games.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
         },
         {
-         "name": "MacBook Pro",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+         "name": "Xbox Series S",
+            "img": "./images/xboxS.jpg",
+            "description": "The Xbox Series S is a more affordable and compact version of the Series X. While it’s less powerful, it still delivers impressive next-gen performance. It features a custom AMD Zen 2 CPU and RDNA 2 GPU, providing 4 teraflops of power, which allows for 1440p gaming at up to 120 fps. The Series S comes with 512GB of NVMe SSD storage for fast load times and smooth performance. Though it lacks a disc drive, making it a digital-only console, it offers the same Game Pass access and backward compatibility as the Series X. It supports ray tracing, HDR, and VRR, but focuses on a lower resolution than the Series X. Its small, white design is highly portable and fits into any entertainment setup.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
       },
       {
-        "name": "MacBook Pro",
-            "img": "./images/mac.jpg",
-            "description": "This is a mac book",
+        "name": "Nintendo Switch",
+            "img": "./images/switch.jpg",
+            "description": "The Nintendo Switch is a unique hybrid gaming console that functions as both a home console and a portable handheld device. It has a custom NVIDIA Tegra X1 chip for performance and is capable of 1080p gaming when docked and 720p on the built-in 6.2-inch screen in handheld mode. The Switch comes with 32GB of internal storage, expandable via microSD cards, and offers motion controls through its detachable Joy-Con controllers. These controllers allow for flexible play styles, whether gaming on the go or in front of the TV. The console supports a wide variety of Nintendo exclusive titles, such as The Legend of Zelda: Breath of the Wild and Mario Kart 8 Deluxe. Its library includes digital downloads, physical cartridges, and indie games via the Nintendo eShop. The Switch is available in various models, including the Switch Lite, which is handheld-only, and the Switch OLED, which offers an improved display for handheld gaming.",
             "url": "https://freepngimg.com/thumb/avengers/5-2-avengers-png-picture.png"
       }
     ] 
